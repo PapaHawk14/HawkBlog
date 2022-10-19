@@ -3,7 +3,7 @@ title: "Test 123"
 
 date: 2022-10-19
 url: /test123/
-image: 
+image: /2022/android/uad.png
 categories:
   - test
 tags:
