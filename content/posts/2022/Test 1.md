@@ -1,7 +1,7 @@
 ---
 title: "Test 123"
 
-date: [[2022-10-19]]
+date: 2022-10-19
 url: /test123/
 image: 
 categories:
