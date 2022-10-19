@@ -17,7 +17,7 @@ When I say "Overpowered", this means the command line interfaces can do things t
 
 {{< tweet user="christitustech" id="1578822405518397442" >}}
 
-## All Operating Systems
+## All Operating Systems are overpowered
 
 When your think of command line interfaces or CLI, there are a lot of things that come to my mind, but let's go over how they are overpowered in EVERY operating system. 
 
