@@ -140,16 +140,16 @@ attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "fab fa-youtube" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://youtube.com/c/ChrisTitusTech"
+link = "https://www.youtube.com/channel/UCdO0OW3DffJSC8xi4K1PFTA"
 [[params.social]]
 icon = "fab fa-twitter" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://twitter.com/christitustech"
+link = "https://twitter.com/gacjezv"
 [[params.social]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://github.com/christitustech"
+link = "https://github.com/papahawk14"
 [[params.social]]
 icon = "fab fa-linkedin" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://www.linkedin.com/in/ctitus/"
+link = "https://www.linkedin.com/in/grant-hawksworth-08265/"
 [[params.social]]
 icon = "fas fa-rss" # Fontawesome icon pack https://fontawesome.com/icons
 link = "https://christitus.com/rss"
