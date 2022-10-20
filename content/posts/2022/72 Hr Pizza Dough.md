@@ -11,6 +11,13 @@ tags:
 draft: false
 ---
 <!--more-->
+
+{{< tweet user="gacjezv" id="1550918768334979078" >}}
+
+
+## Walkthrough Video
+
+{{< youtube 11111111 >}}
 This dough is simple and foolproof—but you do need TIME. Not hands on or working time, but time for a 24-hour rising period and then a 48-hour cold ferment. That’s 72 hours total, in case you don’t have a calculator.
 
 The first phase is a 24-hour period of allowing the dough to bulk ferment (or to rise as one unit before being divided into individual dough portions) at room temperature. Just find a spot where you can park the dough where it will not be disturbed. The dough will impart a pleasant aroma will make your kitchen smell like a bakery.
