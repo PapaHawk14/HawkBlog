@@ -57,9 +57,9 @@ menu_align = "center"
 sidebar = "right" # Sidebar value ("left", "right" or false)
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "GTM-5JNJ8NL" # example: G-XXXXXXXXXX
-
-code_copy_button = true # Turn on/off the code-copy-button for code-fields
+# google_tag_manager = "GTM-5JNJ8NL" # example: G-XXXXXXXXXX
+#
+#code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
 ######################## Site Variables #########################
 [params.variables]
@@ -208,63 +208,63 @@ weight = 1
 url = "/"
 name = "Home"
 
-[[Languages.en.menu.main]]
-weight = 2
-url = "https://www.cttstore.com/downloads"
-name = "Downloads"
+#[[Languages.en.menu.main]]
+#weight = 2
+#url = "https://www.cttstore.com/downloads"
+#name = "Downloads"
 
-[[Languages.en.menu.main]]
-weight = 3
-url = "https://www.cttstore.com/login"
-name = "Members"
-hasChildren = true
+#[[Languages.en.menu.main]]
+#weight = 3
+#url = "https://www.cttstore.com/login"
+#name = "Members"
+#hasChildren = true
 
-[[Languages.en.menu.main]]
-    name = "Latest Videos"
-    url = "https://www.cttstore.com/community/topics/27931"
-    parent = "Members"
+#[[Languages.en.menu.main]]
+ #   name = "Latest Videos"
+ #   url = "https://www.cttstore.com/community/topics/27931"
+ #   parent = "Members"
 
-[[Languages.en.menu.main]]
-    name = "Members Videos"
-    url = "https://www.cttstore.com/community/topics/9021"
-    parent = "Members"
+#[[Languages.en.menu.main]]
+ #   name = "Members Videos"
+ #   url = "https://www.cttstore.com/community/topics/9021"
+ #   parent = "Members"
 
-[[Languages.en.menu.main]]
-    name = "Sign Up"
-    url = "https://www.cttstore.com/chris-titus-tech-membership"
-    parent = "Members"
+#[[Languages.en.menu.main]]
+ #   name = "Sign Up"
+ #   url = "https://www.cttstore.com/chris-titus-tech-membership"
+ #   parent = "Members"
 
 [[Languages.en.menu.main]]
 weight = 6
 url = "#"
-name = "Sections"
+name = "Topics"
 hasChildren = true
   
 [[Languages.en.menu.main]]
-    name = "Android"
-    url = "/categories/android"
-    parent = "Sections"
+    name = "General"
+    url = "/categories/general"
+    parent = "Topics"
 
 [[Languages.en.menu.main]]
-    name = "Linux"
-    url = "/categories/linux"
-    parent = "Sections"
+    name = "Recipe"
+    url = "/categories/recipe"
+    parent = "Topics"
 
 [[Languages.en.menu.main]]
-    name = "MacOS"
-    url = "/categories/macos"
-    parent = "Sections"
-
+    name = "Homelab"
+    url = "/categories/homelab"
+    parent = "Topics"
+	
 [[Languages.en.menu.main]]
-    name = "Networking"
-    url = "/categories/networking"
-    parent = "Sections"
-
+    name = "Tech"
+    url = "/categories/tech"
+    parent = "Topics"
+	
 [[Languages.en.menu.main]]
-    name = "Windows"
-    url = "/categories/windows"
-    parent = "Sections"
-
+    name = "Social"
+    url = "/categories/social"
+    parent = "Topics"	
+	
 ############################# Footer Menu ########################
 
 [[Languages.en.menu.footer]]

@@ -5,11 +5,17 @@ date: {{ now.Format "2006-01-02" }}
 url: /{{ .Name }}/
 image: images/2022-thumbs/{{ .Name }}.jpg
 categories:
-  - Linux
-  - Windows
-  - Networking
+  - General
+  - Recipe
+  - Homelab
+  - Tech
+  - Social
 tags:
-  - Ubuntu
+  - General
+  - Recipe
+  - Homelab
+  - Tech
+  - Social
 draft: false
 ---
 <!--more-->
