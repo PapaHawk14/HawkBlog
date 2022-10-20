@@ -38,8 +38,8 @@ logoHeight = 50
 # favicon
 favicon = "images/favicon.png"
 # meta data
-author = "Chris Titus"
-description = "Having Fun with Technology"
+author = "PapaHawk"
+description = "Food and Fun"
 # homepage main section
 mainSections = ["posts"]
 # contact form action
