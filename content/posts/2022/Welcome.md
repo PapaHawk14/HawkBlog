@@ -16,3 +16,4 @@ draft: false
 
 ## Thank you
 
+All credit for this site template goes to Chris Titus and his fantastic information at christitustech.com
