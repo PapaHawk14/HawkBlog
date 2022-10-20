@@ -1,9 +1,9 @@
 ---
-title: "Welcome"
+title: "72 Hour Pizza Dough"
 
 date: 2022-10-20
 url: /Welcome/
-image: images/2022/welcome.jpg
+image: images/2022/pizza.jpg
 categories:
   - General
   - Social
