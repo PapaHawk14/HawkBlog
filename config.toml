@@ -157,7 +157,7 @@ link = "https://christitus.com/rss"
 ####################### Banner #######################################
 [Languages.en.banner]
 bg_image = "images/bannerbackground.png"
-title = "<strong>Chris Titus Tech</strong><br>How To Articles, <br>Image Downloads,<br> Tech Guides."
+title = "<strong>PapaHawk</strong><br>How To Articles, <br>Image Downloads,<br> Tech Guides."
 image = "images/operating systems.jpg"
 
 ######################## About Me Widget ###############################
