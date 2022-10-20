@@ -19,7 +19,6 @@ tags:
 draft: false
 ---
 <!--more-->
-Lots of fun to be had 
 
 {{< tweet user="gacjezv" id="1550918768334979078" >}}
 
