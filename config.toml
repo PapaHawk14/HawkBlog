@@ -32,7 +32,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 ######################### Default Parameters ###########################
 [params]
 # logo
-logo = "images/static/hawk.jpg"
+logo = "images/static/hawk2.jpg"
 logoWidth = 121
 logoHeight = 50
 # favicon
