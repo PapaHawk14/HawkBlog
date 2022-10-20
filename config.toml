@@ -162,7 +162,7 @@ image = "images/operating systems.jpg"
 
 ######################## About Me Widget ###############################
 [Languages.en.about_me]
-title = "Chris Titus Tech"
+title = "PapaHawk"
 bio = ""
 
 [[params.social_profile]]
