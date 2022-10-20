@@ -44,6 +44,4 @@ Feel free to experiment with fermentation times until you find what works best f
 
 If you’re feeling crazy, try something like coffee–really! Coffee in a dessert pizza crust upgrades you to a culinary genius.
 
-## Walkthrough Video
 
-{{< youtube igK4pVjVzf8 >}}
