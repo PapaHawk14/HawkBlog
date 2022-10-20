@@ -1,6 +1,5 @@
 ---
 title: "72hrpizzadough"
-
 date: 2022-10-21
 url: /72hrpizzadough/
 image: images/2022/pizza.jpg
@@ -8,7 +7,6 @@ categories:
   - Recipe
 tags:
 - Recipe
- 
 draft: false
 ---
 This dough is simple and foolproof—but you do need TIME. Not hands on or working time, but time for a 24-hour rising period and then a 48-hour cold ferment. That’s 72 hours total, in case you don’t have a calculator.
