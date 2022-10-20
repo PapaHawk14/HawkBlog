@@ -1,6 +1,6 @@
 ############################ Default configuration #########################
 baseURL = "https://www.papa-hawk.com/"
-title = "Chris Titus Tech | Tech Content Creator"
+title = "PapaHawk | Food and Thoughts..."
 # theme
 theme = "northendlab"
 # post pagination
@@ -32,7 +32,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 ######################### Default Parameters ###########################
 [params]
 # logo
-logo = "images/navlogo.png"
+logo = "images/static/hawk.png"
 logoWidth = 121
 logoHeight = 50
 # favicon
