@@ -2,7 +2,7 @@
 title: "Welcome"
 
 date: 1999-01-01
-url: /pizza/
+url: /welcome/
 image: images/2022/welcome.jpg
 categories:
   - Social
