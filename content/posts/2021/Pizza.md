@@ -1,7 +1,7 @@
 ---
 title: "Pizza"
 
-date: 2022-10-21
+date: 2021-10-21
 url: /pizza/
 image: images/2022/pizza.jpg
 categories:
