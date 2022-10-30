@@ -1,6 +1,5 @@
 ---
 title: "Pasta"
-
 date: 2022-10-31
 url: /pasta/
 image: images/2022/kitchenaid.jpg
