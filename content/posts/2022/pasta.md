@@ -11,19 +11,18 @@ tags:
 draft: false
 ---
 Making fresh, homemade pasta dough doesn’t have to be tedious! All you need is some flour, eggs, and a tiny bit of arm strength as you knead it all together — no food processor or fancy stand-mixer required. And once your noodles are ready, all it takes is 2-3 minutes of cooking before you can add your sauce, sprinkle your cheese, and open that wine.
-
-Jody Duits, Vaughn Vreeland & Claire King
-Tasty Team
 <!--more-->
 
-Source Credit 
+Source Credit  - 
+Jody Duits, Vaughn Vreeland & Claire King
+Tasty Team
 ```
 https://tasty.co/recipe/fresh-pasta-dough
 ```
 
 ## Ingredients
 
-for 4 servings
+**for 4 servings**
 
 ALL-PURPOSE FLOUR RECIPE
 
