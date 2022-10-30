@@ -9,15 +9,14 @@ tags:
   - Recipe
 draft: false
 ---
+
 Making fresh, homemade pasta dough doesn’t have to be tedious! All you need is some flour, eggs, and a tiny bit of arm strength as you knead it all together — no food processor or fancy stand-mixer required. And once your noodles are ready, all it takes is 2-3 minutes of cooking before you can add your sauce, sprinkle your cheese, and open that wine.
+
 <!--more-->
 
-Source Credit  - 
+Source Credit  - https://tasty.co/recipe/fresh-pasta-dough
 Jody Duits, Vaughn Vreeland & Claire King
 Tasty Team
-```
-https://tasty.co/recipe/fresh-pasta-dough
-```
 
 ## Ingredients
 
@@ -64,4 +63,8 @@ SEMOLINA FLOUR RECIPE
 12.  Take out a noodle and taste for doneness. Once cooked to your liking, remove the pasta from the water, being sure to save at least 1 cup (240 ML) of the pasta cooking water.
 13.  Add the cooked pasta into your preferred sauce and stir to coat, adding some of the reserved pasta water if needed to add a bit of body and silkiness to the sauce.
 14.  Enjoy!
+
+
+
+
 
