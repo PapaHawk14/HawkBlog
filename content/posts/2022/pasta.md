@@ -2,7 +2,7 @@
 title: "Pasta"
 date: 2022-10-31
 url: /pasta/
-image: images/2022/hummus.jpg
+image: images/2022/pasta.jpg
 categories:
   - Recipe
 tags:
