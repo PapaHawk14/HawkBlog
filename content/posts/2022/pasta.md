@@ -21,9 +21,6 @@ Source Credit
 https://tasty.co/recipe/fresh-pasta-dough
 ```
 
-
-## Ingredients
-
 ## Ingredients
 
 for 4 servings
