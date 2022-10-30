@@ -1,7 +1,7 @@
 ---
 title: "Pasta"
 
-date: 2022-31-10
+date: 2022-10-31
 url: /Pasta/
 image: images/2022/welcome.jpg
 categories:
