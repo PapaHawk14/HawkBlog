@@ -1,8 +1,8 @@
 ---
-title: "Welcome"
+title: "Pasta"
 
-date: 1999-01-01
-url: /welcome1/
+date: 2022-31-10
+url: /Pasta/
 image: images/2022/welcome.jpg
 categories:
   - Social
@@ -12,6 +12,6 @@ draft: false
 ---
 <!--more-->
 
-## Thank you 1
+## Pasta
 
 All credit for this site template goes to Chris Titus and his fantastic information at christitustech.com
