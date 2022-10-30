@@ -5,9 +5,9 @@ date: 2022-10-31
 url: /Pasta/
 image: images/2022/welcome.jpg
 categories:
-  - Social
+  - Recipe
 tags:
-  - Social
+  - Recipe
 draft: false
 ---
 <!--more-->
