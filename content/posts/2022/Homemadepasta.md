@@ -1,9 +1,9 @@
 ---
-title: "Hummus"
+title: "Pasta"
 
 date: 2022-10-21
-url: /hummus1/
-image: images/2022/hummus.jpg
+url: /pasta/
+image: images/2022/pasta.jpg
 categories:
   - Recipe
 tags:
