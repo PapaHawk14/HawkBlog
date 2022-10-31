@@ -21,6 +21,12 @@ A quick shout out to Chris Titus and his amazing Tech Channel...
 
 Chris Titus has been a bright light for me personally in driving my Homelab and working experience with Tech.
 
+This website template is a consequence of these articles and videos:
+
+- How CTT Setup his website  https://christitus.com/how-i-setup-my-website/
+- The Ultimate Website Set Up - https://youtu.be/xMv10E561WQ
+- How CTT used Hugo https://christitus.com/hugo-guide/
+
 Do yourself a favour and visit Chris at:
 
 - https://www.youtube.com/c/ChrisTitusTech
