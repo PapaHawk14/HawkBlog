@@ -1,8 +1,8 @@
 ---
-title: "CTTSHoutOut"
+title: "Chris Titus Tech Shout Out"
 
 date: 2022-10-31
-url: /CTTSHoutOut/
+url: /CTTShoutOut/
 image: images/2022/ctt.jpg
 categories:
   - General
