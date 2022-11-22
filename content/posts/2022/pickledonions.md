@@ -3,7 +3,7 @@ title: "Quick Pickled Onions"
 
 date: 2022-11-22
 url: /pickledonions/
-image: images/2022/pickledonions.jpg
+image: images/2022/pickledonions2.jpg
 categories:
   - General
   - Recipe
