@@ -3,7 +3,7 @@ title: "Snowflake Cookies"
 
 date: 2022-11-30
 url: /SnowflakeCookies/
-image: images/2022/snowflakcookie.jpg
+image: images/2022/snowflakecookie.jpg
 categories:
   - Recipe
 tags:
