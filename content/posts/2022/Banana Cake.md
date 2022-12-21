@@ -45,6 +45,6 @@ A family recipe for a simple and quick lovely moist banana cake.
 
 ---
 
-image: images/2022/banana.jpg
+![](/images/2022/bananacakerecipe.jpg)
 
 ---
