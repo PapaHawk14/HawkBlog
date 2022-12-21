@@ -41,6 +41,6 @@ A family recipe for a simple and quick lovely moist banana cake.
 - Add mixture to your cake tin
 - cook cake for 50 minutes 
 
-**Enjoy!****
+**Enjoy!**
 
-![[66_Banana cake_image001.jpg]]
+image: images/2022/bananacakerecipe.jpg
