@@ -16,14 +16,14 @@ A family recipe for a simple and quick lovely moist banana cake.
 <!--more-->
 ## Ingredients
 
-- 2 very ripe bananas - mashed
-- 125gm (4 oz) butter or margarine
-- 1/2 cup dark brown sugar 
-- 2 eggs - beaten
-- 2 cups SR Flour
-- 1 pinch salt
-- 1/2 cup of milk (Dairy or Nut milk)
-- 1 tspn bicarb soda
+- 2 x very ripe bananas - mashed
+- 125gm (4 oz) x butter or margarine
+- 1/2 x cup dark brown sugar 
+- 2 x eggs - beaten
+- 2 x cups SR Flour
+- 1 x pinch salt
+- 1/2 x cup of milk (Dairy or Nut milk)
+- 1 x tspn bicarb soda
 
 ## Method
 
