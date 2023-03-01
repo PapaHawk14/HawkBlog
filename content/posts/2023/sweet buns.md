@@ -1,7 +1,7 @@
 ---
 title: "Simple Sweet Buns"
 
-date: 2023-03-1
+date: 2023-03-01
 url: /sweetbuns/
 image: images/2023/buns.jpg
 categories:
