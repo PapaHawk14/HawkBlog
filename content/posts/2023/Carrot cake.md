@@ -2,7 +2,7 @@
 title: "Carrot Cake - nice and moist"
 
 date: 2023-01-12
-url: /beansalad/
+url: /carrotcake/
 image: images/2023/carrotcake.jpg
 categories:
   - General
