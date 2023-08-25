@@ -1,6 +1,6 @@
 ---
 title: My AirFryer
-date: 2023-04-24
+date: 2023-08-25
 url: /foodie/
 image: images/2023/foodie.jpg
 categories:
