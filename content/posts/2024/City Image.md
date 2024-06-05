@@ -19,6 +19,6 @@ draft: false
 I had to shoot into the Adelaide City centre Saturday - I took a few snaps in the Mall.
 <!--more-->
 
-![Alt text](https://www.papa-hawk.com/City/birds.jpg "bird watching")
+![City Walk](images/2024/birds.jpg)
 
 ---
