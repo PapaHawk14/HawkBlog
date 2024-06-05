@@ -15,6 +15,6 @@ draft: false
 I had to shoot into the Adelaide City centre Saturday - I took a few snaps in the Mall.
 <!--more-->
 
-![City Walk](images/2024/birds.jpg)
+![City Walk](./city/birds.jpg)
 
 ---
