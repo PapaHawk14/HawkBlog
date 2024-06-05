@@ -5,9 +5,6 @@ date: 2024-06-01
 url: /City/
 image: 
   - images/2024/mylovely.jpg
-  - images/2024/DSC00214.jpg
-  - images/2024/birds.jpg
-  - images/2024/pig.jpg
 categories:
   - General
   - Photos
@@ -19,6 +16,6 @@ draft: false
 I had to shoot into the Adelaide City centre Saturday - I took a few snaps in the Mall.
 <!--more-->
 
-![City Walk](images/2024/birds.jpg)
+![City Walk](./images/2024/birds.jpg)
 
 ---
