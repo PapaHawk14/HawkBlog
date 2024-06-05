@@ -1,9 +1,9 @@
 ---
 title: "A peak at the City"
 
-date: 20243-06-01
+date: 2024-06-01
 url: /City/
-image: images/birds.jpg
+image: images/2024/birds.jpg
 categories:
   - General
   - Photos
